@@ -13,8 +13,8 @@ More information about the project developed presented in the final [report](htt
 
 ## Contributors
 
-| Name               | Number    | E-Mail          | Contribution |
-| ------------------ | --------- | --------------- | :----------: |
-| Henrique Nunes     | 201906852 | 201906852@up.pt | 33.3%        |
-| Mateus Silva       | 201906232 | 201906232@up.pt | 33.3%        |
-| Melissa Silva      | 201905076 | 201905076@up.pt | 33.3%        |
+| Name               | Number    | E-Mail            | Contribution |
+| ------------------ | --------- | ----------------- | :----------: |
+| Henrique Nunes     | 201906852 | up201906852@up.pt | 33.3%        |
+| Mateus Silva       | 201906232 | up201906232@up.pt | 33.3%        |
+| Melissa Silva      | 201905076 | up201905076@up.pt | 33.3%        |
